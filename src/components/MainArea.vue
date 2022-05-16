@@ -1,3 +1,3 @@
 <template>
-  <main>Main</main>
+  <main id="main">Blocos</main>
 </template>
