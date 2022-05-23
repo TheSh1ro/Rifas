@@ -1,3 +1,7 @@
 <template>
-  <footer id="footer">Footer</footer>
+  <footer id="footer">
+    <ul>
+      <li class="navfooter-item">Sobre</li>
+    </ul>
+  </footer>
 </template>
