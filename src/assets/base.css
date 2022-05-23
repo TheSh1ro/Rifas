@@ -38,18 +38,24 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
   width: 50%;
   padding: 5px;
 }
 .nav-user {
   display: flex;
   flex-direction: row;
+  align-items: center;
   gap: 5px;
   padding: 5px;
 }
 .nav-item {
   padding: 5px;
   border-radius: 5px;
+}
+.nav-logo {
+  height: 30px;
+  width: 30px;
 }
 .nav-item:hover {
   background-color: rgba(0, 0, 0, 0.5);
